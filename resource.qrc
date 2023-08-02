@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="images">
+    <file>denem3232.png</file>
+    <file>WhatsApp Image 2023-07-21 at 123.34.43 (1).png</file>
+    <file>Logo png.png</file>
+    <file>barcode.png</file>
+    <file>Başlıksız-1.png</file>
+    <file>key.png</file>
+    <file>team.png</file>
+    <file>check.png</file>
+    <file>laundry.png</file>
+    <file>keskin K logo.ico</file>
+    <file>keskin K logo.png</file>
+    <file>keskin K logo2.ico</file>
+    <file>keskin K logo3.ico</file>
+    <file>keskinkimya-logo.png</file>
+    <file>keskinlogo.ico</file>
+    <file>keskinlogo.png</file>
+  </qresource>
+</RCC>
